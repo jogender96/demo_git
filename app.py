@@ -12,6 +12,8 @@ st.subheader('python')
 st.subheader('Data science')
 st.subheader('DSA')
 st.subheader('git')
+st.subheader('sql')
+st.subheader('java')
 
 
 
