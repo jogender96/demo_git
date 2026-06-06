@@ -14,7 +14,7 @@ st.subheader('DSA')
 st.subheader('git')
 st.subheader('sql')
 
-
+st.sidebar.title('Main Menu')
 
 
 
