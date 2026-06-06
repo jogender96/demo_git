@@ -13,6 +13,7 @@ st.subheader('AI and ML')
 st.subheader('DSA')
 st.subheader('git')
 st.subheader('sql')
+st.subheader('data structure')
 
 st.sidebar.title('Main Menu')
 
