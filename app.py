@@ -23,9 +23,14 @@ st.sidebar.markdown("""
                     - page
                     """)
 
+st.sidebar.selectbox('select one',['jagga','ankit'])
+st.sidebar.button('select')
+st.title('hello jagga')
 
+option = st.sidebar.selectbox('select one',['jagga','ankit'])
+btn = st.sidebar.button('select')
 
-
-
+if btn:
+    st.title('hello'+option)
 
 
