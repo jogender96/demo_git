@@ -9,11 +9,11 @@ with col2:
 
 st.header('list of skills')
 st.subheader('python')
-st.subheader('Data science')
+st.subheader('AI and ML')
 st.subheader('DSA')
 st.subheader('git')
 st.subheader('sql')
-st.subheader('java')
+
 
 
 
